@@ -37,7 +37,20 @@ The complete list of requirements for this project is reported in the [requireme
 
 Python version supported : ![Python version](https://img.shields.io/badge/python-3.10|3.11|3.12-blue.svg)
 
-You can install the necessary dependencies using the following command:
+## Usage
 
-```bash
-python -m pip install -r requirements.txt
+The project is structured around the analisi_shelter.ipynb Jupyter Notebook. To get started:
+
+* Download the train.csv dataset from the Kaggle Shelter Animal Outcomes competition.
+
+* Create a data/ folder in the project root directory.
+
+* Move the train.csv file into the data/ folder.
+
+* Open the project in VS Code or Jupyter and execute the cells sequentially.
+
+## Authors
+* Chiara Pollastro
+
+## License 
+This project is licensed under the MIT License
